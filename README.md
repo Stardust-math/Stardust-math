@@ -8,6 +8,13 @@
 
 *<i>Greetings! I'm Stardust, an undergraduate mathematics student. This space serves as my academic portfolio and project repository. The works featured here primarily reflect my intellectual curiosities, coursework assignments, and practical applications of personal demand. I sincerely appreciate your patience and collaboration.</i>*
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Stardust-math&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://github.com/Stardust-math?tab=followers">
+    <img src="https://img.shields.io/github/followers/Stardust-math?label=Followers&style=social" alt="GitHub followers"/>
+  </a>
+</p>
+
 <table>
   <tr>
     <td>
