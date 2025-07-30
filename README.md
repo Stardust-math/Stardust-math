@@ -3,16 +3,10 @@
     src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&height=70&lines=Turn+this+imperfect+story+into+the+way+we+hope+it+to+be."
     alt="Typing SVG"
   />
+  <img src="images/avatar.jpg" width="70" height="70" align="right" style="margin-left: 20px;"/>
 </p>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    *<i>Greetings! I'm Stardust, an undergraduate mathematics student. This space serves as my academic portfolio and project repository. The works featured here primarily reflect my intellectual curiosities, coursework assignments, and practical applications of personal demand. I sincerely appreciate your patience and collaboration.</i>*
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="images/avatar.jpg" width="70" height="70"/>
-  </div>
-</div>
+*<i>Greetings! I'm Stardust, an undergraduate mathematics student. This space serves as my academic portfolio and project repository. The works featured here primarily reflect my intellectual curiosities, coursework assignments, and practical applications of personal demand. I sincerely appreciate your patience and collaboration.</i>*
 
 <p align="center">
   <!-- Profile Views -->
@@ -25,7 +19,7 @@
 
   <!-- Forks -->
   <a href="https://github.com/Stardust-math/repo/network/members">
-    <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
+  <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
   </a>
 
   <!-- Repos -->
@@ -44,6 +38,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 <table>
   <tr>
