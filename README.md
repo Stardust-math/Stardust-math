@@ -18,8 +18,8 @@
   </a>
 
   <!-- Forks -->
-  <a href="https://github.com/Stardust-math?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Forks&query=$.public_repos&url=https://api.github.com/users/Stardust-math&style=flat-square&logo=github" alt="GitHub forks"/>
+  <a href="https://github.com/Stardust-math/repo/network/members">
+  <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
   </a>
 
   <!-- Repos -->
