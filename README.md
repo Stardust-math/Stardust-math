@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="images/avatar.jpg" width="80" height="80" align="left" style="margin-right: 20px;"/>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=40&pause=1000&color=00D9F5&center=true&vCenter=true&width=800&height=80&lines=Turn+this+imperfect+story+into+the+way+we+hope+it+to+be."
+    src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&height=70&lines=Turn+this+imperfect+story+into+the+way+we+hope+it+to+be."
     alt="Typing SVG"
   />
+  <img src="images/avatar.jpg" width="70" height="70" align="right" style="margin-left: 20px;"/>
 </p>
 
 *<i>Greetings! I'm Stardust, an undergraduate mathematics student. This space serves as my academic portfolio and project repository. The works featured here primarily reflect my intellectual curiosities, coursework assignments, and practical applications of personal demand. I sincerely appreciate your patience and collaboration.</i>*
