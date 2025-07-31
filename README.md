@@ -43,10 +43,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&hide=Other,markdown,yaml&include_all_commits=true&langs_count=5" alt="Top Languages" />
     </td>
   </tr>
 </table>
