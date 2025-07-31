@@ -50,6 +50,6 @@
   </tr>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io)](https://github.com/Stardust-math/Stardust-math.github.io)
 
 ![cover](images/cover.jpg)
