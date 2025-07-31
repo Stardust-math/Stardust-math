@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&height=70&lines=Turn+this+imperfect+story+into+the+way+we+hope+it+to+be."
+    src="https://readme-typing-svg.herokuapp.com?font=STXingkai&size=35&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&height=70&lines=当你为错过太阳而哭泣的时候%2C你也要再错过群星了。"
     alt="Typing SVG"
   />
   <img src="images/avatar.jpg" width="70" height="70" align="right" style="margin-left: 20px;"/>
