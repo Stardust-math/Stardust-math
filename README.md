@@ -39,19 +39,18 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" alt="GitHub Stats" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true" alt="Top Languages" style="height: 195px;" />
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io)](https://github.com/Stardust-math/Stardust-math.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer)](https://github.com/Stardust-math/Reference-Answer)
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <a href="https://github.com/Stardust-math/Stardust-math.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io" alt="Repo Card" style="height: 120px;"/>
+  </a>
+  <a href="https://github.com/Stardust-math/Reference-Answer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer" alt="Repo Card" style="height: 120px;"/>
+  </a>
+</div>
 
 ![cover](images/cover.jpg)
