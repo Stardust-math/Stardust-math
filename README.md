@@ -40,16 +40,16 @@
 </p>
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none; margin-bottom: 30px;">
+  <table border="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
     <tr>
-      <td align="left" style="padding-right: 30px;">
+      <td align="left" style="border: none; padding-right: 30px;">
         <img 
           src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" 
           alt="GitHub Stats" 
           style="height:195px;"
         />
       </td>
-      <td align="left">
+      <td align="left" style="border: none;">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true" 
           alt="Top Languages" 
@@ -59,9 +59,9 @@
     </tr>
   </table>
   
-  <table style="border-collapse: collapse; border: none;">
+  <table border="0" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="left" style="padding-right: 30px;">
+      <td align="left" style="border: none; padding-right: 30px;">
         <a href="https://github.com/Stardust-math/Stardust-math.github.io">
           <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io" 
@@ -70,7 +70,7 @@
           />
         </a>
       </td>
-      <td align="left">
+      <td align="left" style="border: none;">
         <a href="https://github.com/Stardust-math/Reference-Answer">
           <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer" 
