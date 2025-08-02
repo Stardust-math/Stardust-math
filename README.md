@@ -39,18 +39,43 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" alt="GitHub Stats" style="height: 195px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true" alt="Top Languages" style="height: 195px;" />
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <a href="https://github.com/Stardust-math/Stardust-math.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io" alt="Repo Card" style="height: 120px;"/>
-  </a>
-  <a href="https://github.com/Stardust-math/Reference-Answer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer" alt="Repo Card" style="height: 120px;"/>
-  </a>
-</div>
+<table align="center" cellspacing="30">
+  <tr>
+    <td align="left">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" 
+        alt="GitHub Stats" 
+        style="height:195px;"
+      />
+    </td>
+    <td align="left">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true" 
+        alt="Top Languages" 
+        style="height:195px;"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/Stardust-math/Stardust-math.github.io">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io" 
+          alt="Repo Card" 
+          style="height:120px;"
+        />
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/Stardust-math/Reference-Answer">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer" 
+          alt="Repo Card" 
+          style="height:120px;"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ![cover](images/cover.jpg)
