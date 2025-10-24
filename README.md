@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=35&pause=1000&color=00D9F5&center=true&vCenter=true&width=700&height=70&lines=Turn+this+imperfect+story+into+the+way+we+hope+it+to+be."
@@ -60,7 +59,7 @@
     </tr>
   </table>
   
-  <table border="0" style="border-collapse: collapse; border: none;">
+  <table border="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
     <tr>
       <td align="left" style="border: none; padding-right: 30px;">
         <a href="https://github.com/Stardust-math/Stardust-math.github.io">
@@ -71,10 +70,19 @@
           />
         </a>
       </td>
-      <td align="left" style="border: none;">
+      <td align="left" style="border: none; padding-right: 30px;">
         <a href="https://github.com/Stardust-math/Reference-Answer">
           <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer" 
+            alt="Repo Card" 
+            style="height:120px;"
+          />
+        </a>
+      </td>
+      <td align="left" style="border: none;">
+        <a href="https://github.com/Stardust-math/Machine_Learning_A">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A" 
             alt="Repo Card" 
             style="height:120px;"
           />
