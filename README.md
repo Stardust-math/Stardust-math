@@ -85,3 +85,4 @@
 </div>
 
 ![cover](images/cover.jpg)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Stardust-math&theme=flat)
