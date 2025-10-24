@@ -51,7 +51,7 @@
       </td>
       <td align="left" style="border: none;">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true"
           alt="Top Languages" 
           style="height:195px;"
         />
