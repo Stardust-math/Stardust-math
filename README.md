@@ -6,7 +6,7 @@
   <img src="images/avatar.jpg" width="70" height="70" align="right" style="margin-left: 20px;"/>
 </p>
 
-*<i>Greetings! I'm Stardust, an undergraduate mathematics student. This space serves as my academic portfolio and project repository. The works featured here primarily reflect my intellectual curiosities, coursework assignments, and practical applications of personal demand. I sincerely appreciate your patience and collaboration.</i>*
+*<i>Greetings! I'm Stardust, an undergraduate mathematics student. This space serves as my academic portfolio and project repository. The works featured here primarily reflect my intellectual curiosities, coursework assignments, and practical applications of personal demand. I sincerely appreciate your patience and collaboration. For more information, please contact <a href="https://stardust-math.github.io/">https://stardust-math.github.io/</a>.</i>*
 
 <p align="center">
   <!-- Profile Views -->
