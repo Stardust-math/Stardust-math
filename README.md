@@ -18,8 +18,8 @@
   </a>
 
   <!-- Forks -->
-  <a href="https://github.com/Stardust-math/Stardust-math.github.io/network/members">
-    <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
+  <a href="https://github.com/Stardust-math/repo/network/members">
+  <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
   </a>
 
   <!-- Repos -->
@@ -32,7 +32,7 @@
 
   <!-- LaTeX Badge -->
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/>
-
+  
   <!-- Email -->
   <a href="mailto:stardust.math26@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
@@ -40,51 +40,51 @@
 </p>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
+  <table border="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
     <tr>
       <td align="left" style="border: none; padding-right: 30px;">
-        <img
-          height="195"
-          src="https://<YOUR_GRS_DOMAIN>/api?username=Stardust-math&show_icons=true&theme=transparent&cache_seconds=86400&v=20260102"
-          alt="GitHub Stats"
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" 
+          alt="GitHub Stats" 
+          style="height:195px;"
         />
       </td>
       <td align="left" style="border: none;">
-        <img
-          height="195"
-          src="https://<YOUR_GRS_DOMAIN>/api/top-langs/?username=Stardust-math&layout=donut&langs_count=8&theme=transparent&cache_seconds=86400&v=20260102"
-          alt="Top Languages"
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8"
+          alt="Top Languages" 
+          style="height:195px;"
         />
       </td>
     </tr>
   </table>
-
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
+  
+  <table border="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
     <tr>
       <td align="left" style="border: none; padding-right: 30px;">
         <a href="https://github.com/Stardust-math/Stardust-math.github.io">
-          <img
-            height="120"
-            src="https://<YOUR_GRS_DOMAIN>/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&v=20260102"
-            alt="Repo Card"
+          <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io" 
+            alt="Repo Card" 
+            style="height:120px;"
           />
         </a>
       </td>
       <td align="left" style="border: none; padding-right: 30px;">
         <a href="https://github.com/Stardust-math/Reference-Answer">
-          <img
-            height="120"
-            src="https://<YOUR_GRS_DOMAIN>/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&v=20260102"
-            alt="Repo Card"
+          <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer" 
+            alt="Repo Card" 
+            style="height:120px;"
           />
         </a>
       </td>
       <td align="left" style="border: none;">
         <a href="https://github.com/Stardust-math/Machine_Learning_A">
-          <img
-            height="120"
-            src="https://<YOUR_GRS_DOMAIN>/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&v=20260102"
-            alt="Repo Card"
+          <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A" 
+            alt="Repo Card" 
+            style="height:120px;"
           />
         </a>
       </td>
