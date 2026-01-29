@@ -28,7 +28,7 @@
   </a>
 
   <!-- Last Commit (All Repos) -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20(All%20Repos)&query=%24.last_push_date&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Commit (All Repos)"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20&query=%24.last_push_date&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Commit"/>
 
   <!-- (Optional) Last Repo -->
   <a href="https://github.com/Stardust-math?tab=repositories&sort=updated">
