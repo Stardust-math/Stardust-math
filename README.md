@@ -46,40 +46,43 @@
 
 <div align="center">
   <img
-    height="195"
-    src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+    width="420"
+    src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&cache_seconds=86400&v=20260129"
     alt="GitHub Stats"
   />
+  &nbsp;&nbsp;
   <img
-    height="195"
-    src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+    width="420"
+    src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&cache_seconds=86400&v=20260129"
     alt="Top Languages"
   />
 </div>
 
 <br/>
+
 <div align="center">
   <a href="https://github.com/Stardust-math/Stardust-math.github.io">
     <img
-      height="140"
-      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+      width="420"
+      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&cache_seconds=86400&v=20260129"
       alt="Stardust-math.github.io"
     />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Stardust-math/Reference-Answer">
     <img
-      height="140"
-      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+      width="420"
+      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&cache_seconds=86400&v=20260129"
       alt="Reference-Answer"
     />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/Stardust-math/Machine_Learning_A">
     <img
-      height="140"
-      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+      width="420"
+      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&cache_seconds=86400&v=20260129"
       alt="Machine_Learning_A"
     />
   </a>
