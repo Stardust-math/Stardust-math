@@ -17,9 +17,12 @@
     <img src="https://img.shields.io/github/followers/Stardust-math?label=Followers&style=social" alt="GitHub followers"/>
   </a>
 
-  <!-- Forks -->
-  <a href="https://github.com/Stardust-math/Stardust-math.github.io/network/members">
-    <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
+  <!-- Total Forks (All Public Repos) -->
+  <a href="https://github.com/Stardust-math?tab=repositories&sort=forks">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24.forks_total&url=https%3A%2F%2Fraw.githubusercontent.com%2FStardust-math%2FStardust-math%2Fmain%2Fbadges%2Frepo_stats.json&style=flat-square&color=brightgreen&cacheSeconds=3600"
+      alt="Total Forks (All Repos)"
+    />
   </a>
 
   <!-- Repos -->
@@ -27,11 +30,17 @@
     <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FStardust-math&style=flat&color=green&cacheSeconds=3600" alt="Total Repos"/>
   </a>
 
-  <!-- Last Commit -->
-  <img src="https://img.shields.io/github/last-commit/Stardust-math/Stardust-math.github.io?style=flat-square&color=blueviolet" alt="Last Commit"/>
+  <!-- Last Commit (All Public Repos) -->
+  <img
+    src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20(All)&query=%24.last_push_date&url=https%3A%2F%2Fraw.githubusercontent.com%2FStardust-math%2FStardust-math%2Fmain%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600"
+    alt="Last Commit (All Repos)"
+  />
 
-  <!-- LaTeX Badge -->
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/>
+  <!-- Last Repo: most recently updated repo name -->
+  <img
+    src="https://img.shields.io/badge/dynamic/json?label=Last%20Repo&query=%24.last_push_repo&url=https%3A%2F%2Fraw.githubusercontent.com%2FStardust-math%2FStardust-math%2Fmain%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600"
+    alt="Last Repo"
+  />
 
   <!-- Email -->
   <a href="mailto:stardust.math26@gmail.com">
