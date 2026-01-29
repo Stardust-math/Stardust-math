@@ -46,49 +46,60 @@
 
 <div align="center">
 
-  <!-- GitHub Stats + Top Langs (same row) -->
+  <table width="100%" align="center">
+    <tr>
+      <td align="left">
+        <img
+          src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+          alt="GitHub Stats"
+          height="170"
+        />
+      </td>
+      <td align="right">
+        <img
+          src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+          alt="Top Languages"
+          height="170"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Repo Cards: Row 1 -->
+  <table width="100%" align="center">
+    <tr>
+      <td align="left">
+        <a href="https://github.com/Stardust-math/Stardust-math.github.io">
+          <img
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+            alt="Repo Card"
+            height="170"
+          />
+        </a>
+      </td>
+      <td align="right">
+        <a href="https://github.com/Stardust-math/Reference-Answer">
+          <img
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+            alt="Repo Card"
+            height="170"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Repo Cards: Row 2 -->
   <p align="center" style="margin: 0; padding: 0;">
-    <img
-      src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&cache_seconds=86400&v=20260129"
-      alt="GitHub Stats"
-      width="49%"
-      style="border: none;"
-    />
-    <img
-      src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&cache_seconds=86400&v=20260129"
-      alt="Top Languages"
-      width="49%"
-      style="border: none;"
-    />
-  </p>
-
-  <!-- Repo Cards -->
-  <p align="center" style="margin-top: 14px; margin-bottom: 0; padding: 0;">
-    <a href="https://github.com/Stardust-math/Stardust-math.github.io">
-      <img
-        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&cache_seconds=86400&v=20260129"
-        alt="Repo Card"
-        width="49%"
-        style="border: none;"
-      />
-    </a>
-    <a href="https://github.com/Stardust-math/Reference-Answer">
-      <img
-        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&cache_seconds=86400&v=20260129"
-        alt="Repo Card"
-        width="49%"
-        style="border: none;"
-      />
-    </a>
-  </p>
-
-  <p align="center" style="margin-top: 10px; padding: 0;">
     <a href="https://github.com/Stardust-math/Machine_Learning_A">
       <img
-        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&cache_seconds=86400&v=20260129"
+        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
         alt="Repo Card"
-        width="49%"
-        style="border: none;"
+        height="170"
       />
     </a>
   </p>
