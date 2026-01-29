@@ -17,30 +17,26 @@
     <img src="https://img.shields.io/github/followers/Stardust-math?label=Followers&style=social" alt="GitHub followers"/>
   </a>
 
-  <!-- Total Forks (All Public Repos) -->
-  <a href="https://github.com/Stardust-math?tab=repositories&sort=forks">
-    <img
-      src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24.forks_total&url=https%3A%2F%2Fraw.githubusercontent.com%2FStardust-math%2FStardust-math%2Fmain%2Fbadges%2Frepo_stats.json&style=flat-square&color=brightgreen&cacheSeconds=3600"
-      alt="Total Forks (All Repos)"
-    />
+  <!-- Total Forks (All Repos) -->
+  <a href="https://github.com/Stardust-math?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24.forks_total&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=brightgreen&cacheSeconds=3600" alt="Total Forks (All Repos)"/>
   </a>
 
-  <!-- Repos -->
+  <!-- Repos (from GitHub API, or you can also read from repo_stats.json if you prefer) -->
   <a href="https://github.com/Stardust-math?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FStardust-math&style=flat&color=green&cacheSeconds=3600" alt="Total Repos"/>
   </a>
 
-  <!-- Last Commit (All Public Repos) -->
-  <img
-    src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20(All)&query=%24.last_push_date&url=https%3A%2F%2Fraw.githubusercontent.com%2FStardust-math%2FStardust-math%2Fmain%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600"
-    alt="Last Commit (All Repos)"
-  />
+  <!-- Last Commit (All Repos) -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20(All%20Repos)&query=%24.last_push_date&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Commit (All Repos)"/>
 
-  <!-- Last Repo: most recently updated repo name -->
-  <img
-    src="https://img.shields.io/badge/dynamic/json?label=Last%20Repo&query=%24.last_push_repo&url=https%3A%2F%2Fraw.githubusercontent.com%2FStardust-math%2FStardust-math%2Fmain%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600"
-    alt="Last Repo"
-  />
+  <!-- (Optional) Last Repo -->
+  <a href="https://github.com/Stardust-math?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Repo&query=%24.last_push_repo&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Repo"/>
+  </a>
+
+  <!-- LaTeX Badge -->
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/>
 
   <!-- Email -->
   <a href="mailto:stardust.math26@gmail.com">
