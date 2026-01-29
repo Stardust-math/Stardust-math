@@ -46,22 +46,22 @@
 
 <div align="center">
 
-  <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-    <tr style="border:none;">
-      <td align="left"  style="border:none; padding:0; margin:0;">
+  <!-- Cards:统一高度 height=170，宽度自动等比例缩放；并排时多余宽度作为中间分隔 -->
+  <!-- GitHub Stats + Top Langs -->
+  <table width="100%" align="center">
+    <tr>
+      <td align="left">
         <img
-          src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&cache_seconds=86400&v=20260129"
+          src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
           alt="GitHub Stats"
           height="170"
-          style="height:170px; width:auto; border:none; display:block;"
         />
       </td>
-      <td align="right" style="border:none; padding:0; margin:0;">
+      <td align="right">
         <img
-          src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&cache_seconds=86400&v=20260129"
+          src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
           alt="Top Languages"
           height="170"
-          style="height:170px; width:auto; border:none; display:block;"
         />
       </td>
     </tr>
@@ -69,27 +69,24 @@
 
   <br/>
 
-  <!-- Repo Cards: Row 1 -->
-  <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-    <tr style="border:none;">
-      <td align="left"  style="border:none; padding:0; margin:0;">
+  <!-- Repo Cards: Row 1 (2 cards) -->
+  <table width="100%" align="center">
+    <tr>
+      <td align="left">
         <a href="https://github.com/Stardust-math/Stardust-math.github.io">
           <img
-            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&cache_seconds=86400&v=20260129"
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
             alt="Repo Card"
             height="170"
-            style="height:170px; width:auto; border:none; display:block;"
           />
         </a>
       </td>
-
-      <td align="right" style="border:none; padding:0; margin:0;">
+      <td align="right">
         <a href="https://github.com/Stardust-math/Reference-Answer">
           <img
-            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&cache_seconds=86400&v=20260129"
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
             alt="Repo Card"
             height="170"
-            style="height:170px; width:auto; border:none; display:block;"
           />
         </a>
       </td>
@@ -98,14 +95,13 @@
 
   <br/>
 
-  <!-- Repo Cards: Row 2 -->
+  <!-- Repo Cards: Row 2 (1 card, centered) -->
   <p align="center" style="margin: 0; padding: 0;">
     <a href="https://github.com/Stardust-math/Machine_Learning_A">
       <img
-        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&cache_seconds=86400&v=20260129"
+        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
         alt="Repo Card"
         height="170"
-        style="height:170px; width:auto; border:none; display:block; margin:0 auto;"
       />
     </a>
   </p>
