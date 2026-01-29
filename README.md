@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24.forks_total&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=brightgreen&cacheSeconds=3600" alt="Total Forks (All Repos)"/>
   </a>
 
-  <!-- Repos (from GitHub API, or you can also read from repo_stats.json if you prefer) -->
+  <!-- Repos -->
   <a href="https://github.com/Stardust-math?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FStardust-math&style=flat&color=green&cacheSeconds=3600" alt="Total Repos"/>
   </a>
@@ -30,7 +30,7 @@
   <!-- Last Commit (All Repos) -->
   <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20&query=%24.last_push_date&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Commit"/>
 
-  <!-- (Optional) Last Repo -->
+  <!-- Last Repo -->
   <a href="https://github.com/Stardust-math?tab=repositories&sort=updated">
     <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Repo&query=%24.last_push_repo&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Repo"/>
   </a>
@@ -45,56 +45,44 @@
 </p>
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
-    <tr>
-      <td align="left" style="border: none; padding-right: 30px;">
-        <img
-          src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&cache_seconds=86400&v=20260129"
-          alt="GitHub Stats"
-          style="height:195px;"
-        />
-      </td>
-      <td align="left" style="border: none;">
-        <img
-          src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&cache_seconds=86400&v=20260129"
-          alt="Top Languages"
-          style="height:195px;"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    height="195"
+    src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+    alt="GitHub Stats"
+  />
+  <img
+    height="195"
+    src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&langs_count=8&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+    alt="Top Languages"
+  />
+</div>
 
-  <table border="0" style="border-collapse: collapse; border: none; margin-bottom: 30px;">
-    <tr>
-      <td align="left" style="border: none; padding-right: 30px;">
-        <a href="https://github.com/Stardust-math/Stardust-math.github.io">
-          <img
-            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&cache_seconds=86400&v=20260129"
-            alt="Repo Card"
-            style="height:120px;"
-          />
-        </a>
-      </td>
-      <td align="left" style="border: none; padding-right: 30px;">
-        <a href="https://github.com/Stardust-math/Reference-Answer">
-          <img
-            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&cache_seconds=86400&v=20260129"
-            alt="Repo Card"
-            style="height:120px;"
-          />
-        </a>
-      </td>
-      <td align="left" style="border: none;">
-        <a href="https://github.com/Stardust-math/Machine_Learning_A">
-          <img
-            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&cache_seconds=86400&v=20260129"
-            alt="Repo Card"
-            style="height:120px;"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+<br/>
+<div align="center">
+  <a href="https://github.com/Stardust-math/Stardust-math.github.io">
+    <img
+      height="140"
+      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+      alt="Stardust-math.github.io"
+    />
+  </a>
+  <a href="https://github.com/Stardust-math/Reference-Answer">
+    <img
+      height="140"
+      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+      alt="Reference-Answer"
+    />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/Stardust-math/Machine_Learning_A">
+    <img
+      height="140"
+      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+      alt="Machine_Learning_A"
+    />
+  </a>
 </div>
 
 ![cover](images/cover.jpg)
