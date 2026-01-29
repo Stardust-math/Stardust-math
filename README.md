@@ -30,7 +30,7 @@
   <!-- Last Commit (All Repos) -->
   <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20&query=%24.last_push_date&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Commit"/>
 
-  <!-- Last Repo -->
+  <!-- (Optional) Last Repo -->
   <a href="https://github.com/Stardust-math?tab=repositories&sort=updated">
     <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Repo&query=%24.last_push_repo&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Repo"/>
   </a>
@@ -44,48 +44,56 @@
   </a>
 </p>
 
+<!-- ✅ 去掉 table：避免外部边框；用 width% 让卡片等比例缩放；同一行宽高一致 -->
 <div align="center">
-  <img
-    width="420"
-    src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&cache_seconds=86400&v=20260129"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    width="420"
-    src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&cache_seconds=86400&v=20260129"
-    alt="Top Languages"
-  />
-</div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Stardust-math/Stardust-math.github.io">
+  <!-- GitHub Stats + Top Langs (same row) -->
+  <p align="center" style="margin: 0; padding: 0;">
     <img
-      width="420"
-      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&cache_seconds=86400&v=20260129"
-      alt="Stardust-math.github.io"
+      src="https://github-readme-stats-muco.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent&cache_seconds=86400&v=20260129"
+      alt="GitHub Stats"
+      width="49%"
+      style="border: none;"
     />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Stardust-math/Reference-Answer">
     <img
-      width="420"
-      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&cache_seconds=86400&v=20260129"
-      alt="Reference-Answer"
+      src="https://github-readme-stats-muco.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent&cache_seconds=86400&v=20260129"
+      alt="Top Languages"
+      width="49%"
+      style="border: none;"
     />
-  </a>
+  </p>
 
-  <br/><br/>
+  <!-- Repo Cards: make them larger & readable (2 per row + 1 centered) -->
+  <p align="center" style="margin-top: 14px; margin-bottom: 0; padding: 0;">
+    <a href="https://github.com/Stardust-math/Stardust-math.github.io">
+      <img
+        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent&cache_seconds=86400&v=20260129"
+        alt="Repo Card"
+        width="49%"
+        style="border: none;"
+      />
+    </a>
+    <a href="https://github.com/Stardust-math/Reference-Answer">
+      <img
+        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent&cache_seconds=86400&v=20260129"
+        alt="Repo Card"
+        width="49%"
+        style="border: none;"
+      />
+    </a>
+  </p>
 
-  <a href="https://github.com/Stardust-math/Machine_Learning_A">
-    <img
-      width="420"
-      src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&cache_seconds=86400&v=20260129"
-      alt="Machine_Learning_A"
-    />
-  </a>
+  <p align="center" style="margin-top: 10px; padding: 0;">
+    <a href="https://github.com/Stardust-math/Machine_Learning_A">
+      <img
+        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&cache_seconds=86400&v=20260129"
+        alt="Repo Card"
+        width="49%"
+        style="border: none;"
+      />
+    </a>
+  </p>
+
 </div>
 
 ![cover](images/cover.jpg)
