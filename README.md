@@ -18,17 +18,17 @@
   </a>
 
   <!-- Forks -->
-  <a href="https://github.com/Stardust-math/repo/network/members">
-  <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
+  <a href="https://github.com/Stardust-math/Stardust-math.github.io/network/members">
+    <img src="https://img.shields.io/github/forks/Stardust-math/Stardust-math.github.io?color=brightgreen&style=flat-square&logo=github" alt="GitHub Forks"/>
   </a>
 
   <!-- Repos -->
   <a href="https://github.com/Stardust-math?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https://api.github.com/users/Stardust-math&style=flat&color=green" alt="Total Repos"/>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FStardust-math&style=flat&color=green&cacheSeconds=3600" alt="Total Repos"/>
   </a>
 
   <!-- Last Commit -->
-  <img src="https://img.shields.io/github/last-commit/Stardust-math/Stardust-math?style=flat-square&color=blueviolet" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/Stardust-math/Stardust-math.github.io?style=flat-square&color=blueviolet" alt="Last Commit"/>
 
   <!-- LaTeX Badge -->
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX"/>
@@ -44,14 +44,14 @@
     <tr>
       <td align="left" style="border: none; padding-right: 30px;">
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" 
+          src="https://github-readme-stats-stardust-maths-projects.vercel.app/api?username=Stardust-math&show_icons=true&theme=transparent" 
           alt="GitHub Stats" 
           style="height:195px;"
         />
       </td>
       <td align="left" style="border: none;">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8"
+          src="https://github-readme-stats-stardust-maths-projects.vercel.app/api/top-langs/?username=Stardust-math&layout=donut&include_all_commits=true&langs_count=8&theme=transparent"
           alt="Top Languages" 
           style="height:195px;"
         />
@@ -64,7 +64,7 @@
       <td align="left" style="border: none; padding-right: 30px;">
         <a href="https://github.com/Stardust-math/Stardust-math.github.io">
           <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io" 
+            src="https://github-readme-stats-stardust-maths-projects.vercel.app/api/pin/?username=Stardust-math&repo=Stardust-math.github.io&theme=transparent" 
             alt="Repo Card" 
             style="height:120px;"
           />
@@ -73,7 +73,7 @@
       <td align="left" style="border: none; padding-right: 30px;">
         <a href="https://github.com/Stardust-math/Reference-Answer">
           <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer" 
+            src="https://github-readme-stats-stardust-maths-projects.vercel.app/api/pin/?username=Stardust-math&repo=Reference-Answer&theme=transparent" 
             alt="Repo Card" 
             style="height:120px;"
           />
@@ -82,7 +82,7 @@
       <td align="left" style="border: none;">
         <a href="https://github.com/Stardust-math/Machine_Learning_A">
           <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A" 
+            src="https://github-readme-stats-stardust-maths-projects.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent" 
             alt="Repo Card" 
             style="height:120px;"
           />
