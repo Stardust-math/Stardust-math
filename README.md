@@ -30,7 +30,7 @@
   <!-- Last Commit (All Repos) -->
   <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Commit%20&query=%24.last_push_date&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Commit"/>
 
-  <!-- (Optional) Last Repo -->
+  <!-- Last Repo -->
   <a href="https://github.com/Stardust-math?tab=repositories&sort=updated">
     <img src="https://img.shields.io/badge/dynamic/json?label=Last%20Repo&query=%24.last_push_repo&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FStardust-math%2FStardust-math%40main%2Fbadges%2Frepo_stats.json&style=flat-square&color=blueviolet&cacheSeconds=3600" alt="Last Repo"/>
   </a>
@@ -44,7 +44,6 @@
   </a>
 </p>
 
-<!-- ✅ 去掉 table：避免外部边框；用 width% 让卡片等比例缩放；同一行宽高一致 -->
 <div align="center">
 
   <!-- GitHub Stats + Top Langs (same row) -->
@@ -63,7 +62,7 @@
     />
   </p>
 
-  <!-- Repo Cards: make them larger & readable (2 per row + 1 centered) -->
+  <!-- Repo Cards -->
   <p align="center" style="margin-top: 14px; margin-bottom: 0; padding: 0;">
     <a href="https://github.com/Stardust-math/Stardust-math.github.io">
       <img
