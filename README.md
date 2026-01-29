@@ -46,8 +46,6 @@
 
 <div align="center">
 
-  <!-- Cards:统一高度 height=170，宽度自动等比例缩放；并排时多余宽度作为中间分隔 -->
-  <!-- GitHub Stats + Top Langs -->
   <table width="100%" align="center">
     <tr>
       <td align="left">
@@ -69,7 +67,6 @@
 
   <br/>
 
-  <!-- Repo Cards: Row 1 (2 cards) -->
   <table width="100%" align="center">
     <tr>
       <td align="left">
@@ -95,7 +92,6 @@
 
   <br/>
 
-  <!-- Repo Cards: Row 2 (1 card, centered) -->
   <p align="center" style="margin: 0; padding: 0;">
     <a href="https://github.com/Stardust-math/Machine_Learning_A">
       <img
