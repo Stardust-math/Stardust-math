@@ -92,15 +92,28 @@
 
   <br/>
 
-  <p align="center" style="margin: 0; padding: 0;">
-    <a href="https://github.com/Stardust-math/Machine_Learning_A">
-      <img
-        src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
-        alt="Repo Card"
-        height="170"
-      />
-    </a>
-  </p>
+  <table width="100%" align="center">
+    <tr>
+      <td align="left">
+        <a href="https://github.com/Stardust-math/Machine_Learning_A">
+          <img
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_A&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+            alt="Repo Card"
+            height="170"
+          />
+        </a>
+      </td>
+      <td align="right">
+        <a href="https://github.com/Stardust-math/Machine_Learning_B">
+          <img
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Machine_Learning_B&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+            alt="Repo Card"
+            height="170"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
