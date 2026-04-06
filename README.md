@@ -115,6 +115,31 @@
     </tr>
   </table>
 
+  <br/>
+
+  <table width="100%" align="center">
+    <tr>
+      <td align="left">
+        <a href="https://github.com/Stardust-math/Introduction_to_Optimization">
+          <img
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Introduction_to_Optimization&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+            alt="Repo Card"
+            height="170"
+          />
+        </a>
+      </td>
+      <td align="right">
+        <a href="https://github.com/Stardust-math/Mathematical_Modeling">
+          <img
+            src="https://github-readme-stats-muco.vercel.app/api/pin/?username=Stardust-math&repo=Mathematical_Modeling&theme=transparent&hide_border=true&cache_seconds=86400&v=20260129"
+            alt="Repo Card"
+            height="170"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ![cover](images/cover.jpg)
