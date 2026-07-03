@@ -16,13 +16,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate premium contribution snake SVG
+      - name: Generate academic sapphire contribution snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Stardust-math
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0077B6&color_dots=#F6F8FA,#BEE9F7,#7DD3FC,#38BDF8,#0284C7
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#334155,#3B82F6,#06B6D4,#22D3EE,#E0F2FE
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0B7285&color_dots=#F6F8FA,#D8F3FF,#A5D8FF,#4DABF7,#1864AB
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#1E293B,#334155,#2563EB,#38BDF8,#E0F2FE
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
